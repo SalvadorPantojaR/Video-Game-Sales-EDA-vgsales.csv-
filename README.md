@@ -1,4 +1,4 @@
-# Video-Game-Sales-EDA-vgsales.csv-
+# Video-Game-Sales-EDA-vgsales.
 
 This notebook performs an end to end exploratory data analysis (EDA) on the public vgsales.csv dataset (Kaggle). It includes data loading, cleaning, descriptive statistics, and visual analysis focused on sales by region and trends over time.
 
