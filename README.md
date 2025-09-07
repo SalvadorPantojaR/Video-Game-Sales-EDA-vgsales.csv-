@@ -1,6 +1,6 @@
 # Video-Game-Sales-EDA-vgsales.csv-
 
-This notebook performs an end-to-end exploratory data analysis (EDA) on the public vgsales.csv dataset (Kaggle). It includes data loading, cleaning, descriptive statistics, and visual analysis focused on sales by region and trends over time.
+This notebook performs an end to end exploratory data analysis (EDA) on the public vgsales.csv dataset (Kaggle). It includes data loading, cleaning, descriptive statistics, and visual analysis focused on sales by region and trends over time.
 
 Main outputs:
 
@@ -20,4 +20,4 @@ Growth analysis for the last 4 years: top/bottom genres, platforms, and games.
 
 Two extra charts highlighting market opportunities.
 
-Google Slides presentation (≤7 slides) with the main charts and short explanations.
+
